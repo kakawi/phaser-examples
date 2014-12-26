@@ -36,6 +36,5 @@ function render() {
 
     // Display
     game.debug.spriteBounds(sprite);
-    game.debug.spriteCorners(sprite, true, true);
 
 }
